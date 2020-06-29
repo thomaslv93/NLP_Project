@@ -1,2 +1,3 @@
-# NLP_Project
-Simple NLP Project.
+# Portuguese Vocabulary Exercises
+Project by Thomas Lindstrom-Vautrin
+Learning languages is a hobby of mine. One of the languages I have taken an interest in is Portuguese. As I have been learning, I have tried to find ways to make that learning more effective. My goal with this project is simply to have a place to train on Portuguese vocabulary as I continue to learn the language. The main feature I will implement is a means of extracting relevant vocabulary from Portuguese text copied and pasted from any online source. In particular, when watching a Portuguese language show on Netflix, I want to be able to copy and paste the Portuguese subtitles into this program and extract the most relevant vocabulary terms so that I can anticipate them before watching an episode. But this extends also to news articles I may read in Portuguese, or chapters I read in e-books... Any Portuguese text should work.
